@@ -1,3 +1,33 @@
 body {
-    background-color: aqua;
+    background-color: black;
+}
+
+#title {
+    background-color:rgb(14, 104, 134);
+    color: white;
+
+    padding: 1em;
+    margin: 2em;
+}
+
+.pars1 {
+    color: white;
+    background-color: rgb(73, 16, 73);
+
+    border: 2cap;
+    border-radius: 1.5cap;
+
+    width: 400px;
+}
+
+.pars2 {
+    color: white;
+    background-color: rgb(73, 16, 73);
+
+    border: 2cap;
+    border-radius: 1.5cap;
+
+    width: 250px;
+
+    margin: 23%
 }
